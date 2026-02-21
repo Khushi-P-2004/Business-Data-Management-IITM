@@ -9,6 +9,7 @@ and to provide data-driven insights and recommendations to support strategic dec
 Problem Statements
 
 I. Challenges in Inventory Management: The company faces significant hurdles in managing inventory effectively, particularly during the launch of new products.
+
 II. Market Position and Expansion Goals: With a solid foothold in West Bengal, Corindo Spices aims to broaden its market reach by penetrating new districts.
 
 Objectives
